@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 📚 Computer Science Junior at USF
 - 🔭 I’m currently working on polishing my full-stack web app
 - 🌱 I’m currently learning more about cloud engineering
+- 🧑‍💻 Check out some of my projects!
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
